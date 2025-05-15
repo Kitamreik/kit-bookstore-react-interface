@@ -37,6 +37,7 @@ function App() {
       <Route path="/update" element={<Update />} />
     </Routes> */}
     <Home />
+    {/* routes  */}
     <Footer />
   </div>
   )
